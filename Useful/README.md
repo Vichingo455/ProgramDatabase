@@ -5,6 +5,7 @@
 - [Adobe Shockwave Player](https://vichingo455.github.io/ProgramDatabase/Useful/Adobe%20Shockwave%20Player.zip)
 - [Bulk Rename Utility](https://vichingo455.github.io/ProgramDatabase/Useful/BRUtility.zip)
 - [ImgBurn](https://vichingo455.github.io/ProgramDatabase/Useful/ImgBurn.zip)
+- [Microsoft Edge](https://vichingo455.github.io/ProgramDatabase/Useful/MSEdge.zip)
 - [Primo RAMDisk](https://vichingo455.github.io/ProgramDatabase/Useful/RAMDisk.zip)
 - [UltraISO](https://vichingo455.gihub.io/ProgramDatabase/Useful/UltraISO.zip)
 - [Visual C++ Redistributable](https://vichingo455.github.io/ProgramDatabase/Useful/VCRedist)
