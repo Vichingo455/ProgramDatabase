@@ -7,5 +7,5 @@
 - [ImgBurn](https://vichingo455.github.io/ProgramDatabase/Useful/ImgBurn.zip)
 - [Microsoft Edge](https://vichingo455.github.io/ProgramDatabase/Useful/MSEdge.zip)
 - [Primo RAMDisk](https://vichingo455.github.io/ProgramDatabase/Useful/RAMDisk.zip)
-- [UltraISO](https://vichingo455.gihub.io/ProgramDatabase/Useful/UltraISO.zip)
+- [UltraISO](https://vichingo455.github.io/ProgramDatabase/Useful/UltraISO.zip)
 - [Visual C++ Redistributable](https://vichingo455.github.io/ProgramDatabase/Useful/VCRedist)
