@@ -1,7 +1,7 @@
 # Useful software index
 - [Parent directory](https://vichingo455.github.io/ProgramDatabase)
 - [7-Zip](https://vichingo455.github.io/ProgramDatabase/Useful/7-Zip.zip)
-- [.NET Framework](https://vichingo455.github.io/ProgramDatabase/Useful/NET.md)
+- [.NET Framework](https://vichingo455.github.io/ProgramDatabase/Useful/NET)
 - [Adobe Shockwave Player](https://vichingo455.github.io/ProgramDatabase/Useful/Adobe%20Shockwave%20Player.zip)
 - [Bulk Rename Utility](https://vichingo455.github.io/ProgramDatabase/Useful/BRUtility.zip)
 - [ImgBurn](https://vichingo455.github.io/ProgramDatabase/Useful/ImgBurn.zip)
