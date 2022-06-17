@@ -4,3 +4,7 @@
 - [NTVDM](https://vichingo455.github.io/ProgramDatabase/Advanced/NTVDM.zip)
 - [Ventoy](https://vichingo455.github.io/ProgramDatabase/Advanced/ventoy-1.0.64.zip)
 - [Sysinternals Suite](https://vichingo455.github.io/ProgramDatabase/Advanced/SysinternalsSuite.rar)
+- [IOBit Unlocker](https://vichingo455.github.io/ProgramDatabase/Advanced/IOBitUnlocker.zip)
+- [NSudo](https://vichingo455.github.io/ProgramDatabase/Advanced/NSudo.zip)
+- [Primo RAMDisk](https://vichingo455.github.io/ProgramDatabase/Advanced/RAMDisk.zip)
+- [Dism++](https://vichingo455.github.io/ProgramDatabase/Advanced/Dism++.zip)
